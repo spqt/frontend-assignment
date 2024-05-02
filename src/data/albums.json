@@ -1,0 +1,172 @@
+{
+  "albums": [
+    {
+      "name": "Thriller",
+      "year": 1982,
+      "artist": "Michael Jackson",
+      "genre": "Pop"
+    },
+    {
+      "name": "The Dark Side of the Moon",
+      "year": 1973,
+      "artist": "Pink Floyd",
+      "genre": "Rock"
+    },
+    {
+      "name": "Abbey Road",
+      "year": 1969,
+      "artist": "The Beatles",
+      "genre": "Rock"
+    },
+    {
+      "name": "Rumours",
+      "year": 1977,
+      "artist": "Fleetwood Mac",
+      "genre": "Rock"
+    },
+    {
+      "name": "Back in Black",
+      "year": 1980,
+      "artist": "AC/DC",
+      "genre": "Hard Rock"
+    },
+    {
+      "name": "Illmatic",
+      "year": 1994,
+      "artist": "Nas",
+      "genre": "Hip Hop"
+    },
+    {
+      "name": "Enter the Wu-Tang (36 Chambers)",
+      "year": 1993,
+      "artist": "Wu-Tang Clan",
+      "genre": "Hip Hop"
+    },
+    {
+      "name": "Homework",
+      "year": 1997,
+      "artist": "Daft Punk",
+      "genre": "Electronic"
+    },
+    {
+      "name": "Play",
+      "year": 1999,
+      "artist": "Moby",
+      "genre": "Electronic"
+    },
+    {
+      "name": "The Fat of the Land",
+      "year": 1997,
+      "artist": "The Prodigy",
+      "genre": "Electronic"
+    },
+    {
+      "name": "Nevermind",
+      "year": 1991,
+      "artist": "Nirvana",
+      "genre": "Grunge"
+    },
+    {
+      "name": "The Miseducation of Lauryn Hill",
+      "year": 1998,
+      "artist": "Lauryn Hill",
+      "genre": "R&B"
+    },
+    {
+      "name": "Born to Run",
+      "year": 1975,
+      "artist": "Bruce Springsteen",
+      "genre": "Rock"
+    },
+    {
+      "name": "Kind of Blue",
+      "year": 1959,
+      "artist": "Miles Davis",
+      "genre": "Jazz"
+    },
+    {
+      "name": "Legend",
+      "year": 1984,
+      "artist": "Bob Marley",
+      "genre": "Reggae"
+    },
+    {
+      "name": "Blood on the Tracks",
+      "year": 1975,
+      "artist": "Bob Dylan",
+      "genre": "Folk Rock"
+    },
+    {
+      "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "year": 1972,
+      "artist": "David Bowie",
+      "genre": "Rock"
+    },
+    {
+      "name": "Hunky Dory",
+      "year": 1971,
+      "artist": "David Bowie",
+      "genre": "Rock"
+    },
+    {
+      "name": "A Night at the Opera",
+      "year": 1975,
+      "artist": "Queen",
+      "genre": "Rock"
+    },
+    {
+      "name": "Led Zeppelin IV",
+      "year": 1971,
+      "artist": "Led Zeppelin",
+      "genre": "Rock"
+    },
+    {
+      "name": "The Wall",
+      "year": 1979,
+      "artist": "Pink Floyd",
+      "genre": "Rock"
+    },
+    {
+      "name": "Hotel California",
+      "year": 1976,
+      "artist": "Eagles",
+      "genre": "Rock"
+    },
+    {
+      "name": "Purple Rain",
+      "year": 1984,
+      "artist": "Prince",
+      "genre": "Pop"
+    },
+    {
+      "name": "London Calling",
+      "year": 1979,
+      "artist": "The Clash",
+      "genre": "Punk"
+    },
+    {
+      "name": "Exile on Main St.",
+      "year": 1972,
+      "artist": "The Rolling Stones",
+      "genre": "Rock"
+    },
+    {
+      "name": "What's Going On",
+      "year": 1971,
+      "artist": "Marvin Gaye",
+      "genre": "Soul"
+    },
+    {
+      "name": "Pet Sounds",
+      "year": 1966,
+      "artist": "The Beach Boys",
+      "genre": "Pop"
+    },
+    {
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "artist": "The Beatles",
+      "genre": "Rock"
+    }
+  ]
+}
