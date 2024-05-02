@@ -1,4 +1,4 @@
-# BrightBid Front-End Engineer Work Sample
+# BrightBid Frontend Developer Work Sample
 
 ## Background
 
