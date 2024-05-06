@@ -1,172 +1,228 @@
 {
   "albums": [
     {
+      "id": 1,
       "name": "Thriller",
       "year": 1982,
       "artist": "Michael Jackson",
-      "genre": "Pop"
+      "genre": "Pop",
+      "image": "https://m.media-amazon.com/images/I/81ogsUqshzL._UF1000,1000_QL80_DpWeblab_.jpg"
     },
     {
+      "id": 2,
       "name": "The Dark Side of the Moon",
       "year": 1973,
       "artist": "Pink Floyd",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2012/01/03/09/DarkSideMoon_415.jpg?width=968"
     },
     {
+      "id": 3,
       "name": "Abbey Road",
       "year": 1969,
       "artist": "The Beatles",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://i.cbc.ca/1.3261894.1569528678!/fileImage/httpImage/abbey-road.jpg"
     },
     {
+      "id": 4,
       "name": "Rumours",
       "year": 1977,
       "artist": "Fleetwood Mac",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/41wEyjiinaL._AC_UF894,1000_QL80_DpWeblab_.jpg"
     },
     {
+      "id": 5,
       "name": "Back in Black",
       "year": 1980,
       "artist": "AC/DC",
-      "genre": "Hard Rock"
+      "genre": "Hard Rock",
+      "image": "https://www.groove-gallery.com/cdn/shop/files/240220-acdc-backinblack.jpg?v=1711291321"
     },
     {
+      "id": 6,
       "name": "Illmatic",
       "year": 1994,
       "artist": "Nas",
-      "genre": "Hip Hop"
+      "genre": "Hip Hop",
+      "image": "https://m.media-amazon.com/images/I/A1Uv+OPV22S._UF1000,1000_QL80_.jpg"
     },
     {
-      "name": "Enter the Wu-Tang (36 Chambers)",
+      "id": 7,
+      "name": "Enter the Wu-Tang",
       "year": 1993,
       "artist": "Wu-Tang Clan",
-      "genre": "Hip Hop"
+      "genre": "Hip Hop",
+      "image": "https://m.media-amazon.com/images/I/614UiJzoxPL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 8,
       "name": "Homework",
       "year": 1997,
       "artist": "Daft Punk",
-      "genre": "Electronic"
+      "genre": "Electronic",
+      "image": "https://i.discogs.com/q8adIgYQNeXbJB9LmCz2YKV0iDzarLxy-LTXl0mu8AU/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDkw/MjYwLTE2NzYzOTQz/NzgtNjcwNy5qcGVn.jpeg"
     },
     {
+      "id": 9,
       "name": "Play",
       "year": 1999,
       "artist": "Moby",
-      "genre": "Electronic"
+      "genre": "Electronic",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-146375-6181913822bd4b9b5b96b8756dfa9e634e98a4b7.jpg"
     },
     {
+      "id": 10,
       "name": "The Fat of the Land",
       "year": 1997,
       "artist": "The Prodigy",
-      "genre": "Electronic"
+      "genre": "Electronic",
+      "image": "https://i.scdn.co/image/ab67616d0000b27392a579d57a628a2dc78b14b6"
     },
     {
+      "id": 11,
       "name": "Nevermind",
       "year": 1991,
       "artist": "Nirvana",
-      "genre": "Grunge"
+      "genre": "Grunge",
+      "image": "https://m.media-amazon.com/images/I/81x-4EFcxEL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 12,
       "name": "The Miseducation of Lauryn Hill",
       "year": 1998,
       "artist": "Lauryn Hill",
-      "genre": "R&B"
+      "genre": "R&B",
+      "image": "https://m.media-amazon.com/images/I/91RwRgo+-gL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 13,
       "name": "Born to Run",
       "year": 1975,
       "artist": "Bruce Springsteen",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/8127ICDt45L._AC_UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 14,
       "name": "Kind of Blue",
       "year": 1959,
       "artist": "Miles Davis",
-      "genre": "Jazz"
+      "genre": "Jazz",
+      "image": "https://m.media-amazon.com/images/I/81Dw561GUoL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 15,
       "name": "Legend",
       "year": 1984,
       "artist": "Bob Marley",
-      "genre": "Reggae"
+      "genre": "Reggae",
+      "image": "https://m.media-amazon.com/images/I/51WdVOU3yQL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 16,
       "name": "Blood on the Tracks",
       "year": 1975,
       "artist": "Bob Dylan",
-      "genre": "Folk Rock"
+      "genre": "Folk Rock",
+      "image": "https://m.media-amazon.com/images/I/61ybjZtRwiL._UF1000,1000_QL80_.jpg"
     },
     {
-      "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "id": 17,
+      "name": "The Rise and Fall of Ziggy Stardust",
       "year": 1972,
       "artist": "David Bowie",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/91WJORzpHML._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 18,
       "name": "Hunky Dory",
       "year": 1971,
       "artist": "David Bowie",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/81UL3M0WATL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 19,
       "name": "A Night at the Opera",
       "year": 1975,
       "artist": "Queen",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://www.kshe95.com/wp-content/uploads/2017/08/night-opera_album-cover.jpg"
     },
     {
+      "id": 20,
       "name": "Led Zeppelin IV",
       "year": 1971,
       "artist": "Led Zeppelin",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/81evsr3Oq0L._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 21,
       "name": "The Wall",
       "year": 1979,
       "artist": "Pink Floyd",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf"
     },
     {
+      "id": 22,
       "name": "Hotel California",
       "year": 1976,
       "artist": "Eagles",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/71rYYgYnr2L._UF1000,1000_QL80_DpWeblab_.jpg"
     },
     {
+      "id": 23,
       "name": "Purple Rain",
       "year": 1984,
       "artist": "Prince",
-      "genre": "Pop"
+      "genre": "Pop",
+      "image": "https://m.media-amazon.com/images/I/81dF3gYOEFL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 24,
       "name": "London Calling",
       "year": 1979,
       "artist": "The Clash",
-      "genre": "Punk"
+      "genre": "Punk",
+      "image": "https://m.media-amazon.com/images/I/71lsBqSZ5zL._UF1000,1000_QL80_DpWeblab_.jpg"
     },
     {
+      "id": 25,
       "name": "Exile on Main St.",
       "year": 1972,
       "artist": "The Rolling Stones",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://i.discogs.com/27Ac5RPykBJ7LDOFBUkFq-1Z8ihX9Da56FiwpWO1duo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDE4/NjItMTQ4MjkyNzQx/MS02MzY3LmpwZWc.jpeg"
     },
     {
+      "id": 26,
       "name": "What's Going On",
       "year": 1971,
       "artist": "Marvin Gaye",
-      "genre": "Soul"
+      "genre": "Soul",
+      "image": "https://m.media-amazon.com/images/I/719kIe1npJL._UF1000,1000_QL80_.jpg"
     },
     {
+      "id": 27,
       "name": "Pet Sounds",
       "year": 1966,
       "artist": "The Beach Boys",
-      "genre": "Pop"
+      "genre": "Pop",
+      "image": "https://i5.walmartimages.com/seo/The-Beach-Boys-Pet-Sounds-50th-Anniversary-Rock-CD_a14c83f9-c537-4254-98ed-c4d64b69f20a.39a527e6cded025755ed4b86ada01980.jpeg"
     },
     {
+      "id": 28,
       "name": "Sgt. Pepper's Lonely Hearts Club Band",
       "year": 1967,
       "artist": "The Beatles",
-      "genre": "Rock"
+      "genre": "Rock",
+      "image": "https://m.media-amazon.com/images/I/81ZVwENsT-L._UF350,350_QL50_.jpg"
     }
   ]
 }
